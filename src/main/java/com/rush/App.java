@@ -1,6 +1,5 @@
-package com.droplet;
+package com.rush;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class App {
