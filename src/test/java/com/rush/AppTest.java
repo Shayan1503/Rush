@@ -1,4 +1,4 @@
-package com.droplet;
+package com.rush;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
